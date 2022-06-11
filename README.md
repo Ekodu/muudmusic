@@ -1,5 +1,5 @@
 
-<h2 align="centre">Muud Music Mp3 Oynatıcı 🎵</h2>
+<h2 align="centre">Eko Music Mp3 Oynatıcı 🎵</h2>
 
 ### Güncellendi aktif.... 
 <p align="center">
@@ -39,13 +39,13 @@
 - `/alive` - botun çalışma durumunu gösterir
 <h4>🔺 Herokuya Dağıt 🔻</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amahocam/muudmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ekodu/muudmusic)
 
 Get pyrogram (p)  `SESSION` buradan:
 
 [![Run on Repl.it](https://repl.it/badge/github/Makoto-XD/Session-Generator)](https://replit.com/@Makoto-XD/Session-Generator)
 
 #### Düzen tasarım
-- [#Ge͂̂͝c̨͒ͤ̕͜e̡͝ k̶̴̛ͮ͌̒̃͟͡uş̟̲͎u̼͓̭̝ͦ̂͋̈̋̔](https://t.me/mutsuz_panda)
+- [#Ge͂̂͝c̨͒ͤ̕͜e̡͝ k̶̴̛ͮ͌̒̃͟͡uş̟̲͎u̼͓̭̝ͦ̂͋̈̋̔](https://t.me/EkoBlogs)
 - 
-- İnstagram [@ama_hocaam](https://instagram.com/ama_hocaam?igshid=YmMyMTA2M2Y=)
+- İnstagram [@Ekos_09](https://instagram.com/Ekos_09?igshid=YmMyMTA2M2Y=)
