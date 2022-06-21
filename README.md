@@ -48,4 +48,4 @@ Get pyrogram (p)  `SESSION` buradan:
 #### Düzen tasarım
 - [#Ge͂̂͝c̨͒ͤ̕͜e̡͝ k̶̴̛ͮ͌̒̃͟͡uş̟̲͎u̼͓̭̝ͦ̂͋̈̋̔](https://t.me/EkoBlogs)
 - 
-- İnstagram [@Ekos_09](https://instagram.com/Ekos_09?igshid=YmMyMTA2M2Y=)
+- İnstagram [@Ekos.099](https://instagram.com/Ekos.09?igshid=YmMyMTA2M2Y=)
