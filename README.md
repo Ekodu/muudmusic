@@ -46,6 +46,6 @@ Get pyrogram (p)  `SESSION` buradan:
 [![Run on Repl.it](https://repl.it/badge/github/Makoto-XD/Session-Generator)](https://replit.com/@Makoto-XD/Session-Generator)
 
 #### Düzen tasarım
-- [#@Nevrozdu](https://t.me/EkoBlogs)
+- [#Nevrozdu](https://t.me/EkoBlogs)
 - 
 - İnstagram [@Ekos.09](https://instagram.com/Ekos.09?igshid=YmMyMTA2M2Y=)
